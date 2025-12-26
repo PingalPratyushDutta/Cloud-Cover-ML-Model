@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.env/
+*.log
+/data
+training_results3.csv
