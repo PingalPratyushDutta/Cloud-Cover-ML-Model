@@ -3,5 +3,3 @@ __pycache__/
 .env/
 *.log
 /data
-training_results3.csv
-CloudDeeplabV3(3).ipynb
